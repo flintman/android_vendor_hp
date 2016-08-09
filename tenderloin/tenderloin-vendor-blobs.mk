@@ -41,6 +41,7 @@ PRODUCT_COPY_FILES += \
     vendor/hp/tenderloin/proprietary/lib/libqdp.so:system/lib/libqdp.so \
     vendor/hp/tenderloin/proprietary/lib/libdiag.so:system/lib/libdiag.so \
     vendor/hp/tenderloin/proprietary/lib/libgsl.so:system/lib/libgsl.so \
+    vendor/hp/tenderloin/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/hp/tenderloin/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     vendor/hp/tenderloin/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/hp/tenderloin/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
