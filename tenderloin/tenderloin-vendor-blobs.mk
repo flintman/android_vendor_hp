@@ -52,7 +52,8 @@ PRODUCT_COPY_FILES += \
     vendor/hp/tenderloin/proprietary/etc/firmware/q6.mdt:system/etc/firmware/q6.mdt \
     vendor/hp/tenderloin/proprietary/etc/firmware/wm8958_mbc.wfw:system/etc/firmware/wm8958_mbc.wfw \
     vendor/hp/tenderloin/proprietary/etc/firmware/wm8958_mbc_vss.wfw:system/etc/firmware/wm8958_mbc_vss.wfw \
-    vendor/hp/tenderloin/proprietary/etc/firmware/wm8958_enh_eq.wfw:system/etc/firmware/wm8958_enh_eq.wfw
+    vendor/hp/tenderloin/proprietary/etc/firmware/wm8958_enh_eq.wfw:system/etc/firmware/wm8958_enh_eq.wfw \
+    vendor/hp/tenderloin/proprietary/recovery/root/sbin/libext2_misc.so:recovery/root/sbin/libext2_misc.so
 
 PRODUCT_COPY_FILES += \
     vendor/hp/tenderloin/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
